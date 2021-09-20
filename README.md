@@ -1,7 +1,6 @@
-- 🌋 Ayo, I'm Flavia.
-- 👀 I’m interested in any novel techonologies really. Blockchain, machine learning, to name a few.
-- 🗿 I’m currently a third-year CS student at McGill
-- 👾 I’m looking to collaborate on FinTech, SaaS, blockchain projects.
+- 🌋 Ayo, I'm Flavia
+- 🗿 I’m currently a fourth-year CS student at McGill
+- 👾 I’m looking to collaborate on FinTech, SaaS, blockchain projects
 - 🧠 Reach me at flavia.ouyang@mail.mcgill.ca
 
 <!---
