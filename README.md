@@ -1,6 +1,6 @@
 - 🌋 Ayo, I'm Flavia
 - 🗿 I’m currently a fourth-year CS student at McGill
-- 👾 I’m looking to collaborate on FinTech, SaaS, blockchain projects
+- 👾 Looking for freelance web development opportunities
 - 🧠 Reach me at flavia.ouyang@mail.mcgill.ca
 
 <!---
