@@ -10,11 +10,11 @@ Here are some technologies I've been exploring recently:
 - Django
 <br />
 <blockquote>
-Want to know more about me? Check out my [portfolio](https://flaviaouyang.github.io/portfolio-site/) here
+Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> here.
 <br />
-Don't be shy. Hit me up on [socials](https://twitter.com/FlaviaOuyang) and say hi.
+  Don't be shy. Hit me up on <a href="https://twitter.com/FlaviaOuyang">socials</a> and say hi.
 <br />
-Are you hiring? Or looking to work together? You can reach me at flavia.ouyang@mail.mcgill.ca
+Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.ouyang@mail.mcgill.ca">email</a>.
 </blockquote>
 <br />
 
