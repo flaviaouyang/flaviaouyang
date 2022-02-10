@@ -4,4 +4,6 @@
 - 👩🏻‍💻 Hit me up on [socials](https://twitter.com/FlaviaOuyang) because why not
 - 💂🏽‍♀️ Or you can reach me at flavia.ouyang@mail.mcgill.ca
 ---
-<img src="/metrics.plugin.isocalendar.svg">
+<img align="center" src="/metrics.plugin.isocalendar.svg" width="100%">
+
+<img align="center" src="/metrics.plugin.languages.details.svg" width="100%">
