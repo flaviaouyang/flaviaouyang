@@ -7,8 +7,9 @@ Interested in web development. Currently on my way to become a better front-end 
 Here are some technologies I've been exploring recently:
 - svelte
 - `three.js`
-- Django
+- django
 <br />
+<h3>
 <blockquote>
 Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> here.
 <br />
@@ -16,6 +17,7 @@ Want to know more about me? Check out my <a href="https://flaviaouyang.github.io
 <br />
 Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.ouyang@mail.mcgill.ca">email</a>.
 </blockquote>
+</h3>
 <br />
 
 
