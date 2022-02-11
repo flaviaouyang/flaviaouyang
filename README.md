@@ -21,4 +21,5 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 
 | <img style="display:flexbox; flex:row" src="/metrics.plugin.languages.details.svg"> | <img style="display:inline-block" src="metrics.plugin.habits.charts.svg"> |
 |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+<img align="center" src="/metrics.plugin.wakatime.svg" width="100%">
 <img align="center" src="/metrics.plugin.isocalendar.svg" width="100%">
