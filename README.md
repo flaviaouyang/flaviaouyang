@@ -19,7 +19,8 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 </h3>
 <br />
 
-<img src="/metrics.plugin.languages.details.svg">
-<img src="metrics.plugin.habits.charts.svg">
+| <img src="/metrics.plugin.introduction.svg">      | <img src="/metrics.plugin.lines.svg">         |
+|---------------------------------------------------|-----------------------------------------------|
+| <img src="/metrics.plugin.languages.details.svg"> | <img src="/metrics.plugin.habits.charts.svg"> |
 <img src="/metrics.plugin.isocalendar.svg" width="100%">             
 <!-- <img src="/metrics.plugin.wakatime.svg"> -->
