@@ -3,11 +3,11 @@
 I'm **Flavia**, a fourth year CS student at **McGill University**📖 <br />
 <br />
 Interested in web development. Currently on my way to become a better **front-end web developer**💪🏻 <br />
-<br />
-Here are some technologies I've been exploring recently:
+<!-- <br /> -->
+<!-- Here are some technologies I've been exploring recently:
 - svelte
 - `three.js`
-- django
+- django -->
 <h3>
 <blockquote>
 Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> here.
