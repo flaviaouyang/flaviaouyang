@@ -20,22 +20,22 @@ I'm a senior at **McGill** University studying **Computer Science** and **Philos
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" /></code>
-<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" /></code>
-<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" /></code>
 
 **Technology & Tools**
 
+<code><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></code>
-<code><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></code>
