@@ -1,4 +1,4 @@
-name: WakaTime
+name: Waka Readme
 on:
   # Schedule daily updates
   schedule: [{cron: "0 3,11 * * *"}]
@@ -7,14 +7,10 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: athul/waka-readme@master
         with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN  }}
