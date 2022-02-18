@@ -19,5 +19,14 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 <br />
 <br />
 <!--START_SECTION:waka-->
+```text
+Total: 31 hrs 49 mins
+
+SQL        10 hrs 28 mins  ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Markdown   9 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.48 % 
+Java       4 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Python     2 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+C++        1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+```
 <!--END_SECTION:waka-->
 <!-- <img src="/metrics.plugin.wakatime.svg" width="100%"> -->
