@@ -1,4 +1,4 @@
-<h2>👋🏻 Hello, stranger!</h2>
+<h1>👋🏻 Hello, stranger!</h1>
 
 I'm **Flavia**, a fourth year CS student at **McGill University**📖 <br />
 <br />
@@ -18,4 +18,6 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 |---------------------------------------------------|-----------------------------------------------|
 <br />
 <br />
-<img src="/metrics.plugin.wakatime.svg" width="100%">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!-- <img src="/metrics.plugin.wakatime.svg" width="100%"> -->
