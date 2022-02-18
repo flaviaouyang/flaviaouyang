@@ -2,12 +2,7 @@
 
 I'm **Flavia**, a fourth year CS student at **McGill University**📖 <br />
 <br />
-Interested in web development. Currently on my way to become a better **front-end web developer**💪🏻 <br />
-<!-- <br /> -->
-<!-- Here are some technologies I've been exploring recently:
-- svelte
-- `three.js`
-- django -->
+Currently on my way to become a better **front-end web developer**💪🏻 <br />
 <h3>
 <blockquote>
 Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> here.
@@ -19,10 +14,8 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 </h3>
 <br />
 
-| <img src="/metrics.plugin.lines.svg">      | <img src="/metrics.plugin.languages.details.svg">         |
+| <img src="/metrics.plugin.isocalendar.svg">      | <img src="/metrics.plugin.languages.details.svg">         |
 |---------------------------------------------------|-----------------------------------------------|
 <br />
 <br />
 <img src="/metrics.plugin.wakatime.svg" width="100%">
-
-<img src="/metrics.plugin.isocalendar.svg" width="100%">
