@@ -11,7 +11,7 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 </h3>
 <br />
 
-## My Skill Set  
+<!-- ## My Skill Set  
 <table><tr><td valign="top" width="50%">
   
 ### Language  
@@ -45,7 +45,7 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 </div>
 
-</td></tr></table>
+</td></tr></table> -->
 <br />
 
 📊 **What I've been working with this week**:
