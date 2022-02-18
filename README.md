@@ -1,54 +1,49 @@
-<h1>👋🏻 Hello, stranger!</h1>
+<h1>Hello, stranger! I'm <a href="https://flaviaouyang.github.io/portfolio-site/">Flavia</a>👋🏻</h1>
 
-I'm **Flavia**, a fourth year CS student at **McGill University**📖 <br />
+<a href="https://twitter.com/FlaviaOuyang">
+  <img align="left" alt="Flavia Ouyang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/flavia-ouyang/">
+  <img align="left" alt="Flavia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br /><br />
 
-<h3>
-Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> here.
-<br />
-  Don't be shy. Hit me up on <a href="https://twitter.com/FlaviaOuyang">socials</a> and say hi.
-<br />
-Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.ouyang@mail.mcgill.ca">email</a>.
-</h3>
-<br />
+I'm a senior at **McGill** University studying **Computer Science** and **Philosophy**. Currently on my journey to become a better **web developer**. I care a great deal about the **design**, **architecture**, and **user experience** of the things I built. I'm always learning. Lately, I've been working with `three.js` and `GSAP` to incorporate more interactivity & animation into my websites.
+  - Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> here. 
+  - Are you hiring or looking to work together? Shoot me an <a href="mailto:flavia.ouyang@mail.mcgill.ca">email</a>.
 
-<!-- ## My Skill Set  
-<table><tr><td valign="top" width="50%">
-  
-### Language  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
 
-</td><td valign="top" width="50%">
+<h3>👩🏻‍💻 Here are some stuff I know</h3>
 
-### Technology  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-</div>
+**Language**
 
-</td></tr></table> -->
-<br />
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" /></code>
 
-📊 **What I've been working with this week**:
+**Technology & Tools**
+
+<code><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></code>
+
+
+<h3>📊 What I've been working with this week</h3>
 
 <!--START_SECTION:waka-->
 ```text
