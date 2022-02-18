@@ -36,11 +36,9 @@ I'm a senior at **McGill** University studying **Computer Science** and **Philos
 <code><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" /></code>
-<code><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></code>
-<code><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="40" /></code>
-<code><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="40" /></code>
 
 
 <h3>📊 What I've been working with this week</h3>
