@@ -13,10 +13,15 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 </blockquote>
 </h3>
 <br />
-
-| <img src="/metrics.plugin.isocalendar.svg">      | <img src="/metrics.plugin.languages.details.svg">         |
-|---------------------------------------------------|-----------------------------------------------|
+<table border="0">
+ <tr>
+    <td><img src="/metrics.plugin.isocalendar.svg"></td>
+    <td><img src="/metrics.plugin.languages.details.svg"></td>
+ </tr>
+</table>
 <br />
+
+
 
 **What I've been working with this week**:
 
