@@ -17,7 +17,9 @@ Are you hiring? Or looking to work together? Shoot me an <a href="mailto:flavia.
 | <img src="/metrics.plugin.isocalendar.svg">      | <img src="/metrics.plugin.languages.details.svg">         |
 |---------------------------------------------------|-----------------------------------------------|
 <br />
-<br />
+
+**What I've been working with this week**:
+
 <!--START_SECTION:waka-->
 ```text
 Total: 31 hrs 49 mins
@@ -29,4 +31,3 @@ Python     2 hrs 50 mins   ██▒░░░░░░░░░░░░░░�
 C++        1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 <!--END_SECTION:waka-->
-<!-- <img src="/metrics.plugin.wakatime.svg" width="100%"> -->
