@@ -45,8 +45,6 @@ I'm a senior at **McGill** University studying **Computer Science** and **Philos
 
 <!--START_SECTION:waka-->
 ```text
-Total: 31 hrs 49 mins
-
 SQL        10 hrs 28 mins  ████████░░░░░░░░░░░░░░░░░   32.59 % 
 Markdown   9 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.48 % 
 Java       4 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
