@@ -45,11 +45,11 @@ I'm a senior at **McGill** University studying **Computer Science** and **Philos
 
 <!--START_SECTION:waka-->
 ```text
-SQL          12 hrs 20 mins  ███████████████████▓░░░░░   78.18 % 
-Java         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JavaScript   46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-C++          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-PHP          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+SQL          17 hrs 32 mins  ██████████████████████░░░   87.97 % 
+JavaScript   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+C++          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+PHP          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
 
