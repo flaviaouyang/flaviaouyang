@@ -41,8 +41,6 @@ I'm a senior at **McGill** University studying **Computer Science** and **Philos
 <code><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" /></code>
 
 
-<h3>📊 What I've been working with this week</h3>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2020%20mins-blue)
 
