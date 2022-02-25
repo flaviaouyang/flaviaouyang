@@ -20,4 +20,5 @@ jobs:
           SHOW_UPDATED_DATE: true
           SHOW_LANGUAGE: true
           SHOW_EDITORS: true
-          TIME_RANGE: last_30_days
+          SHOW_TOTAL_CODE_TIME: true
+          
