@@ -19,6 +19,8 @@ jobs:
           SHOW_DAYS_OF_WEEK: true
           SHOW_LANGUAGE: true
           SHOW_EDITORS: true
-          SHOW_LINES_OF_CODE: true
+          SHOW_LINES_OF_CODE: false
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
+          SHOW_UPDATED_DATE: false
+          SHOW_PROFILE_VIEWS: false
