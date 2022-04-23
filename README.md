@@ -9,7 +9,7 @@
 <br /><br />
 
 I'm a senior at **McGill** University studying **Computer Science** and **Philosophy**. Currently on my journey to become a better **web developer**. I care a great deal about the **design**, **architecture**, and **user experience** of the things I built. I'm always learning. Lately, I've been working with `three.js` and `GSAP` to incorporate more interactivity & animation into my websites.
-  - Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> here. 
+  - Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> or <a href="https://github.com/flaviaouyang/portfolio-site/blob/master/Flavia_Ouyang_CV.pdf">CV</a> here. 
   - Are you hiring or looking to work together? Shoot me an <a href="mailto:flavia.ouyang@mail.mcgill.ca">email</a>.
 
 
