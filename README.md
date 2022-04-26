@@ -1,4 +1,4 @@
-<h1>Hello, stranger! I'm <a href="https://flaviaouyang.github.io/portfolio-site/">Flavia</a>👋🏻</h1>
+<h1>Hello, stranger! I'm <a href="https://flaviaouyang.com/">Flavia</a>👋🏻</h1>
 
 <a href="https://twitter.com/FlaviaOuyang">
   <img align="left" alt="Flavia Ouyang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
