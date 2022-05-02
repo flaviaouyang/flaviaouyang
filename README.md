@@ -20,6 +20,7 @@ I'm a senior at **McGill** University studying **Computer Science** and **Philos
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" /></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" /></code>
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" /></code>
@@ -34,11 +35,19 @@ I'm a senior at **McGill** University studying **Computer Science** and **Philos
 <code><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></code>
 <code><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" /></code>
+<code><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="40" /></code>
 
 
 <h3>📑 Here are some stats</h3>
