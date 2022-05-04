@@ -66,8 +66,8 @@ I'm a software engineer based in Montreal, Canada. Recently graduated with a BSc
 
 ```text
 Monday       156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
-Tuesday      208 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
-Wednesday    125 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
+Tuesday      209 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+Wednesday    124 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
 Thursday     185 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
 Friday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
 Saturday     235 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
