@@ -10,7 +10,7 @@
 
 I'm a software engineer based in Montreal, Canada. Recently graduated with a BSc in **Computer Science** from **McGill** University. I care a great deal about the **design**, **architecture**, and **user experience** of the things I built. I'm always learning. Lately, I've been working with `three.js` and `GSAP` to incorporate more interactivity & animation into my websites.
   - Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> or <a href="https://github.com/flaviaouyang/portfolio-site/blob/master/Flavia_Ouyang_CV.pdf">CV</a> here. 
-  - Are you hiring or looking to work together? <a href="mailto:flavia.ouyang@mail.mcgill.ca">Email me</a>.
+  - Are you hiring or looking to work together? <a href="mailto:hello@flaviaouyang.com">Email me</a>.
 
 
 <h3>👩🏻‍💻 Here are some stuff I know</h3>
