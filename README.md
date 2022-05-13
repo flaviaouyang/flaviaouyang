@@ -53,7 +53,6 @@ I'm a software engineer based in Montreal, Canada. Recently graduated with a BSc
 <h3>📑 Here are some stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
