@@ -8,7 +8,7 @@
 </a>
 <br /><br />
 
-I'm a software engineer based in Montreal, Canada. Graduated with a BSc in **Computer Science** from **McGill** University. I care a great deal about the **design**, **architecture**, and **user experience** of the things I built. I'm always learning. Lately, I've been working with `three.js` and `GSAP` to incorporate more interactivity & animation into my websites.
+I'm a software developer based in Montreal, Canada. Graduated with a BSc in **Computer Science** from **McGill** University. Currently working at SociVolta Inc.
   - Want to know more about me? Check out my <a href="https://flaviaouyang.github.io/portfolio-site/">portfolio</a> or <a href="https://github.com/flaviaouyang/portfolio-site/blob/master/Flavia_Ouyang_CV.pdf">CV</a> here. 
   - Are you looking to work together? <a href="mailto:hello@flaviaouyang.com">Email me</a>.
 
