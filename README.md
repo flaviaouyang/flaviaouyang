@@ -13,7 +13,7 @@ I'm a software developer based in Montreal, Canada. Graduated with a BSc in **Co
   - Are you looking to work together? <a href="mailto:hello@flaviaouyang.com">Email me</a>.
 
 
-<h3>👩🏻‍💻 Stuff I know</h3>
+<h3>Stuff I know</h3>
 
 **Language**
 
