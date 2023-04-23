@@ -10,7 +10,7 @@
 
 Graduated with a BSc in **Computer Science** from **McGill University**. Based in Montréal, I am currently a software developer at <a href="http://www.socivolta.com">SociVolta Inc.</a>
   - <a href="https://flaviaouyang.github.io/portfolio-site/">Portfolio Website</a>
-  - <a href="https://github.com/flaviaouyang/portfolio-site/blob/master/Flavia_Ouyang_CV.pdf">Curriculum Vitae</a>
+  - <a href="https://github.com/flaviaouyang/portfolio-site/blob/master/src/asset/Flavia_Ouyang_CV.pdf">Curriculum Vitae</a>
   - <a href="mailto:hello@flaviaouyang.com">Contact me via Email</a>
 
 
