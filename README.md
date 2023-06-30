@@ -9,7 +9,7 @@
 <br /><br />
 
 Software engineer at an energy trading firm in Montreal. I enjoy solving challenging problems.
-  - <a href="www.flaviaouyang.com">Portfolio Website</a>
+  - <a href="https://www.flaviaouyang.com">Portfolio Website</a>
   - <a href="https://github.com/flaviaouyang/flaviaouyang/blob/main/FLAVIA_OUYANG_CV_2023.pdf">Curriculum Vitae</a>
   - <a href="mailto:flavia.ouyang@mail.mcgill.ca">Contact me via Email</a>
 
