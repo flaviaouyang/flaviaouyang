@@ -3,47 +3,64 @@
 <a href="https://twitter.com/whoisflaviao">
   <img align="left" alt="Flavia Ouyang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/flavia-ouyang/">
+<a href="https://www.linkedin.com/in/flavia>ouyang/">
   <img align="left" alt="Flavia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br /><br />
 
-Graduated with a BSc in **Computer Science** from **McGill University**. Based in Montréal, I currently work as a software developer at <a href="http://www.socivolta.com">SociVolta Inc.</a>
-  - <a href="https://flaviaouyang.github.io/portfolio-site/">Portfolio Website</a>
-  - <a href="https://github.com/flaviaouyang/portfolio-site/blob/master/src/asset/Flavia_Ouyang_CV.pdf">Curriculum Vitae</a>
-  - <a href="mailto:hello@flaviaouyang.com">Contact me via Email</a>
+Software engineer at an energy trading firm in Montreal. I enjoy solving challenging problems.
+  - <a href="https://flaviaouyang.github.io/portfolio>site/">Portfolio Website</a>
+  - <a href="https://github.com/flaviaouyang/portfolio>site/blob/master/src/asset/Flavia_Ouyang_CV.pdf">Curriculum Vitae</a>
+  - <a href="mailto:flavia.ouyang@mail.mcgill.ca">Contact me via Email</a>
 
 
 <h2>Languages and Technologies</h2>
 
-**Language**
+<details>
+  <summary>Languages</summary>
 
-- Python
-- Java
-- JavaScript
-- TypeScript
-- C
-- C++
-- SQL
-- PHP
-- Bash
-- HTML
-- CSS
-- SASS
+  ### I work with
+  - Python
+  - C++
+  - TypeScript
 
-**Technologies**
+  ### I know
+  - Java
+  - JavaScript
+  - C
+  - SQL
+  - PHP
+  - Bash
+  - HTML
+  - CSS
+  - SASS
 
-- Git
-- Jenkins
-- Airflow
-- MongoDB
-- MySQL
-- Kubernetes
-- Docker
-- React
-- Flask
-- Django
-- NodeJS
-- pandas
-- Confluence
-- Jira
+</details>
+
+<details>
+  <summary>Technologies, Tools, and Industry Knowledge</summary>
+  
+  ### Technologies & Tools
+  - Git
+  - Jenkins
+  - MongoDB
+  - MySQL
+  - Airflow
+  - Kubernetes
+  - Docker
+  - React
+  - Flask
+  - Django
+  - NodeJS
+  - pandas
+  - Confluence
+  - Jira
+  - Figma
+  
+  ### Industry Knowledge
+  - Version Control
+  - CI/CD
+  - Agile Development
+  - UML
+    
+</details>
