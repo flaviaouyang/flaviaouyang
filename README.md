@@ -1,10 +1,7 @@
 <h1><a href="https://www.flaviaouyang.com/">Flavia Y. Ouyang</a></h1>
 
-<a href="https://twitter.com/whoisflaviao">
-  <img align="left" alt="Flavia Ouyang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/flavia>ouyang/">
-  <img align="left" alt="Flavia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Flavia's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <br /><br />
 
