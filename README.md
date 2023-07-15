@@ -23,6 +23,7 @@ Software engineer at an energy trading firm in Montreal. I enjoy solving challen
 
   ### I know
   - Java
+  - Rust
   - JavaScript
   - C
   - SQL
@@ -42,7 +43,7 @@ Software engineer at an energy trading firm in Montreal. I enjoy solving challen
   - Jenkins
   - MongoDB
   - MySQL
-  - Airflow
+  - Apache Airflow
   - Kubernetes
   - Docker
   - React
@@ -55,6 +56,7 @@ Software engineer at an energy trading firm in Montreal. I enjoy solving challen
   - Figma
   
   ### Industry Knowledge
+  - Object-Oriented Programming
   - Version Control
   - CI/CD
   - Agile Development
