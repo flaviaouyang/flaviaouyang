@@ -5,7 +5,15 @@
 </a>
 <br /><br />
 
-Software engineer at an energy trading firm in Montreal. I enjoy solving challenging problems.
+Software engineer at a proprietary energy trading firm in Montreal. I enjoy solving challenging problems.
+
+
+Fields of Interest:
+  - Data Science
+  - Machine Learning
+  - Financial quantitative analysis
+
+More about me:
   - <a href="https://www.flaviaouyang.com">Portfolio Website</a>
   - <a href="https://github.com/flaviaouyang/flaviaouyang/blob/main/Flavia_Ouyang_CV.pdf">Curriculum Vitae</a>
   - <a href="mailto:flavia.ouyang@mail.mcgill.ca">Contact me via Email</a>
