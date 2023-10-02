@@ -5,7 +5,7 @@
 </a>
 <br /><br />
 
-Software engineer at a proprietary energy trading firm in Montreal. I enjoy solving challenging problems.
+Software engineer at a proprietary energy trading firm in Montreal.
 
 
 Fields of Interest:
