@@ -24,22 +24,21 @@ More about me:
 <details>
   <summary>Languages</summary>
 
-  ### I work with
+  ### I have worked/currently work with
+  
   - Python
-  - C++
-  - TypeScript
-
-  ### I know
-  - Java
-  - Rust
-  - JavaScript
-  - C
-  - SQL
-  - PHP
   - Bash
-  - HTML
-  - CSS
-  - SASS
+  - Java
+  - TypeScript
+  - JavaScript
+  - HTML, CSS, SASS
+
+  ### I also know
+  
+  - C++
+  - C
+  - Rust
+  - PHP
 
 </details>
 
@@ -47,10 +46,13 @@ More about me:
   <summary>Technologies, Tools, and Industry Knowledge</summary>
   
   ### Technologies & Tools
+  
   - Git
+  - AWS: S3, Lambda, Athena, CloudWatch
+  - SQL: MySQL, PostgreSQL
+  - NoSQL: Mongo DB, GraphQL
   - Jenkins
-  - MongoDB
-  - MySQL
+  - Grafana
   - Apache Airflow
   - Kubernetes
   - Docker
@@ -58,12 +60,12 @@ More about me:
   - Flask
   - Django
   - NodeJS
-  - pandas
-  - Confluence
-  - Jira
+  - pandas, numpy, polars
+  - Jira, Confluence
   - Figma
   
   ### Industry Knowledge
+  
   - Object-Oriented Programming
   - Version Control
   - CI/CD
