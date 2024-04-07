@@ -9,7 +9,7 @@ Software engineer at a proprietary energy trading firm in Montreal.
 
 
 Fields of Interest:
-  - Data Science
+  - Data
   - Machine Learning
   - Financial quantitative analysis
 
