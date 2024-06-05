@@ -1,22 +1,15 @@
 <h1><a href="https://www.flaviaouyang.com/">Flavia Y. Ouyang</a></h1>
 
-<a href="https://www.linkedin.com/in/flavia>ouyang/">
-  <img align="left" alt="Flavia's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
-<br /><br />
-
-Software engineer at a proprietary energy trading firm in Montreal.
-
+I'm a software engineer based in Canada. I currently work at SociVolta, a proprietary energy trading shop. I build data and research infrastructure, and also do some quantitative research.
 
 Fields of Interest:
-  - Data
+  - Data Engineering
   - Machine Learning
-  - Financial quantitative analysis
+  - Quantitative Finance
 
-More about me:
-  - <a href="https://www.flaviaouyang.com">Portfolio Website</a>
-  - <a href="https://github.com/flaviaouyang/flaviaouyang/blob/main/Flavia_Ouyang_CV.pdf">Curriculum Vitae</a>
-  - <a href="mailto:flavia.ouyang@mail.mcgill.ca">Contact me via Email</a>
+More:
+  - <a href="https://www.flaviaouyang.com">see my portfolio</a>
+  - <a href="mailto:flaviaouyang@gmail.com">email me</a>
 
 
 <h2>Languages and Technologies</h2>
@@ -27,18 +20,15 @@ More about me:
   ### I have worked/currently work with
   
   - Python
-  - Bash
   - Java
   - TypeScript
-  - JavaScript
-  - HTML, CSS, SASS
 
   ### I also know
   
   - C++
   - C
   - Rust
-  - PHP
+  - Solidity
 
 </details>
 
@@ -48,28 +38,11 @@ More about me:
   ### Technologies & Tools
   
   - Git
-  - AWS: S3, Lambda, Athena, CloudWatch
   - SQL: MySQL, PostgreSQL
   - NoSQL: Mongo DB, GraphQL
-  - Jenkins
-  - Grafana
-  - Apache Airflow
-  - Kubernetes
-  - Docker
-  - React
-  - Flask
-  - Django
-  - NodeJS
-  - pandas, numpy, polars
-  - Jira, Confluence
-  - Figma
-  
-  ### Industry Knowledge
-  
-  - Object-Oriented Programming
-  - Version Control
-  - CI/CD
-  - Agile Development
-  - UML
+  - AWS
+  - React, Redux, NextJS
+  - pandas, NumPy, polars, Spark
+  - scikit-learn, PyTorch
     
 </details>
