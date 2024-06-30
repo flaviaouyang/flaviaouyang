@@ -8,8 +8,8 @@ Fields of Interest:
   - Quantitative Finance
 
 More:
-  - <a href="https://www.flaviaouyang.com">see my portfolio</a>
-  - <a href="mailto:flaviaouyang@gmail.com">email me</a>
+  - <a href="https://www.flaviaouyang.com">portfolio</a>
+  - <a href="mailto:flaviaouyang@gmail.com">email</a>
 
 
 <h2>Languages and Technologies</h2>
